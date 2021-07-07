@@ -6,5 +6,5 @@
 
 # sharing some images of app
 
-![](./images/image1.png)
-![](./images/image2.png)
+![](./src/images/image1.png)
+![](./src/images/image2.png)
