@@ -1,0 +1,43 @@
+.flex-container {
+  display: flex;
+  padding: 10px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.all-stock{
+  width: 65%;
+  padding: 10px;
+}
+
+.top-five-stocks{
+  width: 35%;
+  padding: 10px;
+}
+
+.top-five-stocks-table {
+  margin-top: 54px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.search-input-div {
+  padding: 3px;
+}
+.search-input{
+  height: 23px;
+  width: 20%;
+}
